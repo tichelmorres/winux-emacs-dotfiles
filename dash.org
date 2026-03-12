@@ -1,0 +1,23 @@
+
+
+
+
+*春 雨 や*
+*川 面 を 濡 ら す*
+*小 舟 か な*
+
+/Spring rain —/
+/It wets the river’s surface,/
+/A little boat floats./
+
+—————————————————————————————————
+
+[[file:~/TeX/][TeX]]
+[[file:~/Projects/glyph-prompt/][Glyph Prompt]]
+[[elisp:(find-file-other-frame "~/Projects/tests/archimedean-spiral/")][Archimedean Spiral]]
+[[file:~/.config/emacs/init.el][init.el]]
+[[file:~/Manuscripts/Debalde/dorm.md][dorm.md]]
+
+—————————————————————————————————
+
+abstract syntax tree vs parse tree
